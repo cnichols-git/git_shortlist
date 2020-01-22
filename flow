@@ -1,0 +1,7 @@
+install flow - apt-get install git-flow
+git flow init
+
+git flow feature start <MYFEATURE>
+
+once your done
+git flow feature finish <MYFEATURE>
